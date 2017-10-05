@@ -1,0 +1,678 @@
+{
+    "Models": [
+        {
+            "basePrice": 0,
+            "discountPrice": 0,
+            "finalPrice": 0,
+            "basicCarConfigurationTitle": null,
+            "productPriceFromLabel": null,
+            "productColourLabel": null,
+            "additionalKmLabel": null,
+            "productPriceSymbolLabel": null,
+            "productPriceFrequencyLabel": null,
+            "discount": null,
+            "duration": null,
+            "mileage": null,
+            "configUrl": null,
+            "overviewUrl": null,
+            "Id": "41a141fc-cd50-491f-a673-900867b06071",
+            "CarModel": {
+                "Id": "201bc90e-6754-4cb4-a56e-b24c7a73d1e6",
+                "Brand": {
+                    "Id": "0dd686c7-a99e-46e3-955a-9e71385aa219",
+                    "Name": "Skoda",
+                    "SelectListValue": "SKODA",
+                    "Selected": false,
+                    "Identifier": "skoda"
+                },
+                "Model": {
+                    "Id": "40ec88ec-7794-477e-9eef-4d1d2e582b6c",
+                    "Name": "Citigo",
+                    "SelectListValue": "Citigo",
+                    "Selected": false,
+                    "Identifier": "citigo"
+                },
+                "SmallLabel": "",
+                "RegularLabel": "",
+                "DisplayLimitedStock": false,
+                "LimitedStockLabel": "",
+                "LimitedStockTermsAndConditions": null,
+                "Title": "ŠKODA Citigo"
+            },
+            "Title": "ŠKODA Citigo",
+            "Brand": {
+                "Id": "0dd686c7-a99e-46e3-955a-9e71385aa219",
+                "Name": "Skoda",
+                "SelectListValue": "SKODA",
+                "Selected": false,
+                "Identifier": "skoda"
+            },
+            "Model": {
+                "Id": "40ec88ec-7794-477e-9eef-4d1d2e582b6c",
+                "Name": "Citigo",
+                "SelectListValue": "Citigo",
+                "Selected": false,
+                "Identifier": "citigo"
+            },
+            "Type": {
+                "Id": "c28255f2-4543-442e-baa0-6cc4f75f5b26",
+                "Name": "Basis",
+                "SelectListValue": "Basis",
+                "Selected": false,
+                "Identifier": "basis"
+            },
+            "FuelType": {
+                "Id": "3d41e7cd-3a8b-4b50-b862-4af56e2c99f3",
+                "Name": "Benzine",
+                "SelectListValue": "Benzine",
+                "Selected": false,
+                "Identifier": "benzine"
+            },
+            "Transmission": {
+                "Id": "1c5a685b-6e0b-46e4-b23a-df4a7d28b36a",
+                "Name": "Handgeschakeld",
+                "SelectListValue": "Handgeschakeld",
+                "Selected": false,
+                "Identifier": "handgeschakeld"
+            },
+            "NrOfPassengers": 2,
+            "Targets": [
+                {
+                    "Id": "3ef4e23e-f21e-4878-bbf1-5b7936f18060",
+                    "TargetName": "Autoabonnement"
+                },
+                {
+                    "Id": "d49d7278-a916-4377-bad1-abb3ac5d3201",
+                    "TargetName": "Skoda"
+                }
+            ],
+            "SideShot": {
+                "Alt": "",
+                "Border": "",
+                "Class": "",
+                "Height": 207,
+                "HSpace": 0,
+                "Src": "/-/media/images/autoabonnement/shop/sideshots/skoda/private-lease-skoda-citigo-luxe-tornado-red.png",
+                "VSpace": 0,
+                "Width": 480,
+                "MediaId": "6364751d-ccf4-425c-88f4-3815cdf09e59",
+                "Title": "",
+                "Language": {
+                    "Name": "nl-NL"
+                }
+            },
+            "TypeShot": {
+                "Alt": "Private Lease SKODA Citigo Basis",
+                "Border": "",
+                "Class": "",
+                "Height": 378,
+                "HSpace": 0,
+                "Src": "/-/media/images/autoabonnement/shop/pakkettenplein/skoda/private-lease-skoda-citigo-basis.jpg",
+                "VSpace": 0,
+                "Width": 634,
+                "MediaId": "ff0130b2-d43b-4ba1-a31c-13f8a1b0c844",
+                "Title": "",
+                "Language": {
+                    "Name": "nl-NL"
+                }
+            },
+            "Options": [
+                {
+                    "CalcId": 10100,
+                    "Id": "4146a1d4-a9b3-444c-a0a6-fc25513cd7eb",
+                    "Name": "Winterbanden",
+                    "BLSName": "",
+                    "Title": "Winterbanden",
+                    "Information": "Winterbanden verbeteren het contact met de weg bij lage temperaturen. In Duitsland zijn winterbanden in de wintermaanden verplicht. Meerprijs is inclusief de bandenwissel en opslag.",
+                    "Selected": false,
+                    "Price": 10.42,
+                    "Identifier": "winterbanden"
+                },
+                {
+                    "CalcId": 10110,
+                    "Id": "e81f5ea2-8b8f-4670-a7cb-38c8d10336bb",
+                    "Name": "Direct vervangend vervoer",
+                    "BLSName": "",
+                    "Title": "Direct vervangend vervoer",
+                    "Information": "Direct vervangend vervoer bij pech, reparatie en onderhoud. Zonder deze optie krijgt u standaard vervangend vervoer na 24 uur.",
+                    "Selected": false,
+                    "Price": 2.82,
+                    "Identifier": "direct-vervangend-vervoer"
+                }
+            ],
+            "StandardOptions": [
+                {
+                    "Id": "1bfc30eb-251c-4c00-9d8a-9c9dee1bd5d6",
+                    "Name": "Stuurbekrachtiging",
+                    "BLSName": null,
+                    "Title": "Stuurbekrachtiging",
+                    "Information": "Met minder krachtinspanning soepel door de bochten, dat is mogelijk met stuurbekrachtiging. In sommige auto's verandert de hoeveelheid bekrachtiging afhankelijk van de snelheid van de auto: licht sturen bij het parkeren, een goed stuurgevoel op hoge snelheid."
+                },
+                {
+                    "Id": "4cf22db2-23cb-4763-bbb3-3b63dfd5a0a6",
+                    "Name": "5 deuren",
+                    "BLSName": null,
+                    "Title": "5 deuren",
+                    "Information": "Extra makkelijke instap en handig bij vervoer van meerdere personen."
+                },
+                {
+                    "Id": "218d0250-ef7f-4d75-9234-ceff0b2a7771",
+                    "Name": "De laatste veiligheidsitems",
+                    "BLSName": null,
+                    "Title": "De laatste veiligheidsitems",
+                    "Information": "Met o.a. airbags voor de bestuurder en passagiers."
+                },
+                {
+                    "Id": "c572a2ba-26c8-4702-b08e-6f9440d0b91a",
+                    "Name": "Start-stopsysteem",
+                    "BLSName": null,
+                    "Title": "Start-stopsysteem",
+                    "Information": "Een start-stopsysteem zorgt er voor dat de motor automatisch afslaat wanneer de auto stopt. Het systeem kan in stadsverkeer tot zelfs 8% minder CO2-uitstoot  en brandstofbesparing zorgen. Het is vooral efficiënt bij bijvoorbeeld verkeerslichten of files."
+                },
+                {
+                    "Id": "24a54121-9610-4be9-a43e-da0b6ae9f808",
+                    "Name": "Elektrische ramen voor",
+                    "BLSName": null,
+                    "Title": "Elektrische ramen voor",
+                    "Information": "Altijd handig bij de parkeergarage of wellicht het werk. Met één druk op de knop gaat het raam open. "
+                },
+                {
+                    "Id": "54c4869f-26d0-43b3-9d0a-25c914ed3020",
+                    "Name": "Getint glas",
+                    "BLSName": null,
+                    "Title": "Getint glas",
+                    "Information": ""
+                },
+                {
+                    "Id": "a857a56c-d84e-4f98-a25d-5e78e55613f8",
+                    "Name": "In hoogte verstelbare bestuurdersstoel",
+                    "BLSName": null,
+                    "Title": "In hoogte verstelbare bestuurdersstoel",
+                    "Information": ""
+                },
+                {
+                    "Id": "09915518-bcf7-48bf-a75c-12c50acbeb9a",
+                    "Name": "Isofix voorbereiding achter",
+                    "BLSName": null,
+                    "Title": "Isofix voorbereiding achter",
+                    "Information": ""
+                },
+                {
+                    "Id": "68ed8a4e-a2e8-41c5-b07a-178f5524f9b5",
+                    "Name": "Centrale deurvergrendeling",
+                    "BLSName": null,
+                    "Title": "Centrale deurvergrendeling",
+                    "Information": "Alle deuren centraal openen of sluiten. Bij de meeste modellen wordt ook een handige afstandsbediening meegeleverd."
+                }
+            ],
+            "SearchTitle": "ŠKODA Citigo",
+            "Colours": [
+                {
+                    "Id": "66049bf7-afec-44dd-96cd-a2041711fc72",
+                    "Name": "Sunflower Yellow",
+                    "ColourhexCode": "cbb744",
+                    "OrderCode": "T1T1",
+                    "ImageFolder": {
+                        "Images": [
+                            {
+                                "Image": null,
+                                "Url": "/-/media/images/autoabonnement/shop/car-colours/skoda/citigo/basis/sunflower-yellow/private-lease-skoda-citigo-basis-sunflower-yellow-1.jpg",
+                                "Alt": "",
+                                "Width": "700",
+                                "Height": "285"
+                            },
+                            {
+                                "Image": null,
+                                "Url": "/-/media/images/autoabonnement/shop/car-colours/skoda/citigo/basis/sunflower-yellow/private-lease-skoda-citigo-basis-sunflower-yellow-2.jpg",
+                                "Alt": "",
+                                "Width": "700",
+                                "Height": "285"
+                            },
+                            {
+                                "Image": null,
+                                "Url": "/-/media/images/autoabonnement/shop/car-colours/skoda/citigo/basis/sunflower-yellow/private-lease-skoda-citigo-basis-sunflower-yellow-3.jpg",
+                                "Alt": "",
+                                "Width": "700",
+                                "Height": "285"
+                            },
+                            {
+                                "Image": null,
+                                "Url": "/-/media/images/autoabonnement/shop/car-colours/skoda/citigo/basis/sunflower-yellow/private-lease-skoda-citigo-basis-sunflower-yellow-4.jpg",
+                                "Alt": "",
+                                "Width": "700",
+                                "Height": "285"
+                            },
+                            {
+                                "Image": null,
+                                "Url": "/-/media/images/autoabonnement/shop/car-colours/skoda/citigo/basis/sunflower-yellow/private-lease-skoda-citigo-basis-interieur.jpg",
+                                "Alt": "",
+                                "Width": "700",
+                                "Height": "285"
+                            }
+                        ]
+                    },
+                    "Price": 0,
+                    "Selected": false
+                },
+                {
+                    "Id": "580152a4-c565-4578-af5a-9abe21db8c51",
+                    "Name": "Tornado Red",
+                    "ColourhexCode": "98252d",
+                    "OrderCode": "G2G2",
+                    "ImageFolder": {
+                        "Images": [
+                            {
+                                "Image": null,
+                                "Url": "/-/media/images/autoabonnement/shop/car-colours/skoda/citigo/basis/tornado-red/private-lease-skoda-citigo-basis-tornado-red-1.jpg",
+                                "Alt": "",
+                                "Width": "700",
+                                "Height": "285"
+                            },
+                            {
+                                "Image": null,
+                                "Url": "/-/media/images/autoabonnement/shop/car-colours/skoda/citigo/basis/tornado-red/private-lease-skoda-citigo-basis-tornado-red-2.jpg",
+                                "Alt": "",
+                                "Width": "700",
+                                "Height": "285"
+                            },
+                            {
+                                "Image": null,
+                                "Url": "/-/media/images/autoabonnement/shop/car-colours/skoda/citigo/basis/tornado-red/private-lease-skoda-citigo-basis-tornado-red-3.jpg",
+                                "Alt": "",
+                                "Width": "700",
+                                "Height": "285"
+                            },
+                            {
+                                "Image": null,
+                                "Url": "/-/media/images/autoabonnement/shop/car-colours/skoda/citigo/basis/tornado-red/private-lease-skoda-citigo-basis-tornado-red-4.jpg",
+                                "Alt": "",
+                                "Width": "700",
+                                "Height": "285"
+                            },
+                            {
+                                "Image": null,
+                                "Url": "/-/media/images/autoabonnement/shop/car-colours/skoda/citigo/basis/tornado-red/private-lease-skoda-citigo-basis-interieur.jpg",
+                                "Alt": "",
+                                "Width": "700",
+                                "Height": "285"
+                            }
+                        ]
+                    },
+                    "Price": 1.64,
+                    "Selected": false
+                },
+                {
+                    "Id": "464507b5-8a2c-41b2-9ad4-65d337f4385e",
+                    "Name": "Candy White",
+                    "ColourhexCode": "dbdddb",
+                    "OrderCode": "9P9P",
+                    "ImageFolder": {
+                        "Images": [
+                            {
+                                "Image": null,
+                                "Url": "/-/media/images/autoabonnement/shop/car-colours/skoda/citigo/basis/candy-white/private-lease-skoda-citigo-basis-candy-white-1.jpg",
+                                "Alt": "",
+                                "Width": "700",
+                                "Height": "285"
+                            },
+                            {
+                                "Image": null,
+                                "Url": "/-/media/images/autoabonnement/shop/car-colours/skoda/citigo/basis/candy-white/private-lease-skoda-citigo-basis-candy-white-2.jpg",
+                                "Alt": "",
+                                "Width": "700",
+                                "Height": "285"
+                            },
+                            {
+                                "Image": null,
+                                "Url": "/-/media/images/autoabonnement/shop/car-colours/skoda/citigo/basis/candy-white/private-lease-skoda-citigo-basis-candy-white-3.jpg",
+                                "Alt": "",
+                                "Width": "700",
+                                "Height": "285"
+                            },
+                            {
+                                "Image": null,
+                                "Url": "/-/media/images/autoabonnement/shop/car-colours/skoda/citigo/basis/candy-white/private-lease-skoda-citigo-basis-candy-white-4.jpg",
+                                "Alt": "",
+                                "Width": "700",
+                                "Height": "285"
+                            },
+                            {
+                                "Image": null,
+                                "Url": "/-/media/images/autoabonnement/shop/car-colours/skoda/citigo/basis/candy-white/private-lease-skoda-citigo-basis-interieur.jpg",
+                                "Alt": "",
+                                "Width": "700",
+                                "Height": "285"
+                            }
+                        ]
+                    },
+                    "Price": 1.64,
+                    "Selected": false
+                },
+                {
+                    "Id": "7c474042-205f-44f1-9106-dfd6902e8e88",
+                    "Name": "Metallic Brilliant Silver",
+                    "ColourhexCode": "b5b6ba",
+                    "OrderCode": "8E8E",
+                    "ImageFolder": {
+                        "Images": [
+                            {
+                                "Image": null,
+                                "Url": "/-/media/images/autoabonnement/shop/car-colours/skoda/citigo/basis/brilliant-silver-metallic/private-lease-skoda-citigo-basis-brilliant-silver-metallic-1.jpg",
+                                "Alt": "",
+                                "Width": "700",
+                                "Height": "285"
+                            },
+                            {
+                                "Image": null,
+                                "Url": "/-/media/images/autoabonnement/shop/car-colours/skoda/citigo/basis/brilliant-silver-metallic/private-lease-skoda-citigo-basis-brilliant-silver-metallic-2.jpg",
+                                "Alt": "",
+                                "Width": "700",
+                                "Height": "285"
+                            },
+                            {
+                                "Image": null,
+                                "Url": "/-/media/images/autoabonnement/shop/car-colours/skoda/citigo/basis/brilliant-silver-metallic/private-lease-skoda-citigo-basis-brilliant-silver-metallic-3.jpg",
+                                "Alt": "",
+                                "Width": "700",
+                                "Height": "285"
+                            },
+                            {
+                                "Image": null,
+                                "Url": "/-/media/images/autoabonnement/shop/car-colours/skoda/citigo/basis/brilliant-silver-metallic/private-lease-skoda-citigo-basis-brilliant-silver-metallic-4.jpg",
+                                "Alt": "",
+                                "Width": "700",
+                                "Height": "285"
+                            },
+                            {
+                                "Image": null,
+                                "Url": "/-/media/images/autoabonnement/shop/car-colours/skoda/citigo/basis/brilliant-silver-metallic/private-lease-skoda-citigo-basis-interieur.jpg",
+                                "Alt": "",
+                                "Width": "700",
+                                "Height": "285"
+                            }
+                        ]
+                    },
+                    "Price": 4.67,
+                    "Selected": false
+                },
+                {
+                    "Id": "bc0bdb46-1af8-449d-9180-653cb55ca7ff",
+                    "Name": "Metallic Dark Saphire Blue",
+                    "ColourhexCode": "282c3b",
+                    "OrderCode": "S8S8",
+                    "ImageFolder": {
+                        "Images": [
+                            {
+                                "Image": null,
+                                "Url": "/-/media/images/autoabonnement/shop/car-colours/skoda/citigo/basis/dark-saphire-blue-metallic/private-lease-skoda-citigo-basis-dark-saphire-blue-metallic-1.jpg",
+                                "Alt": "",
+                                "Width": "700",
+                                "Height": "285"
+                            },
+                            {
+                                "Image": null,
+                                "Url": "/-/media/images/autoabonnement/shop/car-colours/skoda/citigo/basis/dark-saphire-blue-metallic/private-lease-skoda-citigo-basis-dark-saphire-blue-metallic-2.jpg",
+                                "Alt": "",
+                                "Width": "700",
+                                "Height": "285"
+                            },
+                            {
+                                "Image": null,
+                                "Url": "/-/media/images/autoabonnement/shop/car-colours/skoda/citigo/basis/dark-saphire-blue-metallic/private-lease-skoda-citigo-basis-dark-saphire-blue-metallic-3.jpg",
+                                "Alt": "",
+                                "Width": "700",
+                                "Height": "285"
+                            },
+                            {
+                                "Image": null,
+                                "Url": "/-/media/images/autoabonnement/shop/car-colours/skoda/citigo/basis/dark-saphire-blue-metallic/private-lease-skoda-citigo-basis-dark-saphire-blue-metallic-4.jpg",
+                                "Alt": "",
+                                "Width": "700",
+                                "Height": "285"
+                            },
+                            {
+                                "Image": null,
+                                "Url": "/-/media/images/autoabonnement/shop/car-colours/skoda/citigo/basis/dark-saphire-blue-metallic/private-lease-skoda-citigo-basis-interieur.jpg",
+                                "Alt": "",
+                                "Width": "700",
+                                "Height": "285"
+                            }
+                        ]
+                    },
+                    "Price": 4.67,
+                    "Selected": false
+                },
+                {
+                    "Id": "a2590a97-ded0-4dd8-b69c-2bb4e6132c21",
+                    "Name": "Metallic Spring Green",
+                    "ColourhexCode": "6b8a3c",
+                    "OrderCode": "0W0W",
+                    "ImageFolder": {
+                        "Images": [
+                            {
+                                "Image": null,
+                                "Url": "/-/media/images/autoabonnement/shop/car-colours/skoda/citigo/basis/spring-green-metallic/private-lease-skoda-citigo-basis-spring-green-metallic-1.jpg",
+                                "Alt": "",
+                                "Width": "700",
+                                "Height": "285"
+                            },
+                            {
+                                "Image": null,
+                                "Url": "/-/media/images/autoabonnement/shop/car-colours/skoda/citigo/basis/spring-green-metallic/private-lease-skoda-citigo-basis-spring-green-metallic-2.jpg",
+                                "Alt": "",
+                                "Width": "700",
+                                "Height": "285"
+                            },
+                            {
+                                "Image": null,
+                                "Url": "/-/media/images/autoabonnement/shop/car-colours/skoda/citigo/basis/spring-green-metallic/private-lease-skoda-citigo-basis-spring-green-metallic-3.jpg",
+                                "Alt": "",
+                                "Width": "700",
+                                "Height": "285"
+                            },
+                            {
+                                "Image": null,
+                                "Url": "/-/media/images/autoabonnement/shop/car-colours/skoda/citigo/basis/spring-green-metallic/private-lease-skoda-citigo-basis-spring-green-metallic-4.jpg",
+                                "Alt": "",
+                                "Width": "700",
+                                "Height": "285"
+                            },
+                            {
+                                "Image": null,
+                                "Url": "/-/media/images/autoabonnement/shop/car-colours/skoda/citigo/basis/spring-green-metallic/private-lease-skoda-citigo-basis-interieur.jpg",
+                                "Alt": "",
+                                "Width": "700",
+                                "Height": "285"
+                            }
+                        ]
+                    },
+                    "Price": 4.67,
+                    "Selected": false
+                },
+                {
+                    "Id": "01e0c4dc-0821-4dec-bcdd-ae005f3cb74a",
+                    "Name": "Metallic Tungsten Silver",
+                    "ColourhexCode": "a4a19e",
+                    "OrderCode": "K5K5",
+                    "ImageFolder": {
+                        "Images": [
+                            {
+                                "Image": null,
+                                "Url": "/-/media/images/autoabonnement/shop/car-colours/skoda/citigo/basis/tungsten-silver-metallic/private-lease-skoda-citigo-basis-tungsten-silver-metallic-1.jpg",
+                                "Alt": "",
+                                "Width": "700",
+                                "Height": "285"
+                            },
+                            {
+                                "Image": null,
+                                "Url": "/-/media/images/autoabonnement/shop/car-colours/skoda/citigo/basis/tungsten-silver-metallic/private-lease-skoda-citigo-basis-tungsten-silver-metallic-2.jpg",
+                                "Alt": "",
+                                "Width": "700",
+                                "Height": "285"
+                            },
+                            {
+                                "Image": null,
+                                "Url": "/-/media/images/autoabonnement/shop/car-colours/skoda/citigo/basis/tungsten-silver-metallic/private-lease-skoda-citigo-basis-tungsten-silver-metallic-3.jpg",
+                                "Alt": "",
+                                "Width": "700",
+                                "Height": "285"
+                            },
+                            {
+                                "Image": null,
+                                "Url": "/-/media/images/autoabonnement/shop/car-colours/skoda/citigo/basis/tungsten-silver-metallic/private-lease-skoda-citigo-basis-tungsten-silver-metallic-4.jpg",
+                                "Alt": "",
+                                "Width": "700",
+                                "Height": "285"
+                            },
+                            {
+                                "Image": null,
+                                "Url": "/-/media/images/autoabonnement/shop/car-colours/skoda/citigo/basis/tungsten-silver-metallic/private-lease-skoda-citigo-basis-interieur.jpg",
+                                "Alt": "",
+                                "Width": "700",
+                                "Height": "285"
+                            }
+                        ]
+                    },
+                    "Price": 4.67,
+                    "Selected": false
+                },
+                {
+                    "Id": "29db9fdc-fec4-41b7-abbc-d19394313e4e",
+                    "Name": "Deep Black Pearl",
+                    "ColourhexCode": "262626",
+                    "OrderCode": "2T2T",
+                    "ImageFolder": {
+                        "Images": [
+                            {
+                                "Image": null,
+                                "Url": "/-/media/images/autoabonnement/shop/car-colours/skoda/citigo/basis/deep-black-metallic/private-lease-skoda-citigo-basis-deep-black-metallic-1.jpg",
+                                "Alt": "",
+                                "Width": "700",
+                                "Height": "285"
+                            },
+                            {
+                                "Image": null,
+                                "Url": "/-/media/images/autoabonnement/shop/car-colours/skoda/citigo/basis/deep-black-metallic/private-lease-skoda-citigo-basis-deep-black-metallic-2.jpg",
+                                "Alt": "",
+                                "Width": "700",
+                                "Height": "285"
+                            },
+                            {
+                                "Image": null,
+                                "Url": "/-/media/images/autoabonnement/shop/car-colours/skoda/citigo/basis/deep-black-metallic/private-lease-skoda-citigo-basis-deep-black-metallic-3.jpg",
+                                "Alt": "",
+                                "Width": "700",
+                                "Height": "285"
+                            },
+                            {
+                                "Image": null,
+                                "Url": "/-/media/images/autoabonnement/shop/car-colours/skoda/citigo/basis/deep-black-metallic/private-lease-skoda-citigo-basis-deep-black-metallic-4.jpg",
+                                "Alt": "",
+                                "Width": "700",
+                                "Height": "285"
+                            },
+                            {
+                                "Image": null,
+                                "Url": "/-/media/images/autoabonnement/shop/car-colours/skoda/citigo/basis/deep-black-metallic/private-lease-skoda-citigo-basis-interieur.jpg",
+                                "Alt": "",
+                                "Width": "700",
+                                "Height": "285"
+                            }
+                        ]
+                    },
+                    "Price": 4.67,
+                    "Selected": false
+                }
+            ],
+            "ColoursImage": null,
+            "BasedOn": "Active",
+            "TechnicalSpecs": "",
+            "Bhp": "60",
+            "Engine": "1.0",
+            "FuelConsumption": "4,1 l/100km",
+            "Emission": "95 g/km",
+            "EnergyLabel": "B",
+            "SmallLabel": "",
+            "RegularLabel": "",
+            "DisplayLimitedStock": false,
+            "LimitedStockLabel": "Uitverkocht",
+            "LimitedStockTermsAndConditions": "Wegens succes is deze auto helaas niet meer leverbaar. Kies gerust een ander model/uitvoering of neem contact met ons op voor een passend alternatief.",
+            "Price": 159,
+            "LeaseOptionPrice": 38.78,
+            "AdditionalKmPrice": 4.3,
+            "LessKmPrice": 2.66,
+            "Link": "/private-lease/SKODA/Citigo/Basis?Duration=36-maanden&Mileage=20-000-km&FuelType=benzine&TransmissionType=handgeschakeld&",
+            "Insurances": [
+                {
+                    "Id": "eee89b36-6fb0-4957-ae96-96ef3ea17b54",
+                    "CalcId": 5,
+                    "Label": "All risk",
+                    "Information": "Bij private lease via ons is uw auto altijd all risk verzekerd. Dat houdt in dat schade aan zowel de tegenpartij als aan de eigen auto altijd vergoed wordt. Daarbij geldt wel een eigen risico, standaard € 500,-, die ook naar beneden bijgesteld kan worden in de shop. ",
+                    "Selected": false,
+                    "Disabled": false,
+                    "Mandatory": true,
+                    "Price": 0,
+                    "Identifier": "all-risk"
+                },
+                {
+                    "Id": "fabb25fd-ff12-4a85-9e76-d125d4f43746",
+                    "CalcId": 4,
+                    "Label": "Schadeverzekering inzittenden",
+                    "Information": "Als je een schadeverzekering voor inzittenden afsluit krijg je als bestuurder de schade vergoed na een ongeval met de auto. Denk hierbij aan zowel letselschade als schade aan bagage of kleding. Dit geldt ook voor eventuele medepassagiers die schade oplopen. Goed om te weten dat je dit ook krijgt als jij degene bent die het ongeluk heeft veroorzaakt. Let hierbij wel op dat er een maximaal verzekerd bedrag is.\r\n\r\nStel je voor dat je na een ongeval niet meer in staat bent om te kunnen werken. Dan verlies je je inkomen en heb je misschien medische en huishoudelijke hulp nodig. Daarbij kun je misschien aanpassingen in je woning nodig hebben. Ook kun je recht hebben op smartengeld en een vergoeding voor overlijdensschade. \r\n\r\nStandaard is de schadeverzekering inzittenden inbegrepen.",
+                    "Selected": false,
+                    "Disabled": false,
+                    "Mandatory": true,
+                    "Price": 0,
+                    "Identifier": "schadeverzekering-inzittenden"
+                }
+            ],
+            "PolicyExcessOptions": [
+                {
+                    "Id": "60b0762f-09f5-411c-81e9-694ade52e6c3",
+                    "CalcId": 10,
+                    "Label": "€ 500,-",
+                    "Information": "",
+                    "Default": true,
+                    "Selected": false,
+                    "Price": 0,
+                    "Identifier": "-500-10"
+                },
+                {
+                    "Id": "375f0f92-2ed8-4187-a8de-35d4a69e904b",
+                    "CalcId": 20,
+                    "Label": "€ 250,-",
+                    "Information": "",
+                    "Default": false,
+                    "Selected": false,
+                    "Price": 5.06,
+                    "Identifier": "-250-20"
+                },
+                {
+                    "Id": "bdfff90b-131a-4fd6-a987-b7f8ccd4eb2a",
+                    "CalcId": 30,
+                    "Label": "€ 125,-",
+                    "Information": "",
+                    "Default": false,
+                    "Selected": false,
+                    "Price": 7.6,
+                    "Identifier": "-125-30"
+                },
+                {
+                    "Id": "a5fa9720-cb93-448b-a82c-75ed6ecf9c8c",
+                    "CalcId": 999,
+                    "Label": "€ 125,-",
+                    "Information": "Bij collectief private leasen is het eigen risico standaard € 125,-, het laagst mogelijke eigen risico en dat kost helemaal niets. ",
+                    "Default": false,
+                    "Selected": false,
+                    "Price": 0,
+                    "Identifier": "-125-999"
+                }
+            ],
+            "OnlineAfsluiten": false,
+            "ServiceUrl": "https://www.autoabonnement.nl/api/CarConfigurator/GetCar?CarId=41a141fc-cd50-491f-a673-900867b06071&Mileage={mileage}&Duration={duration}",
+            "OverviewUrl": "https://www.autoabonnement.nl/private-lease/SKODA/Citigo/Basis/overzicht?Duration={duration}&Mileage={mileage}&SelectedOptions={options}&SelectedInsurances={insurances}&SelectedPolicyExcessOption={policyexcess}&SelectedColour={color}&FuelType=benzine&TransmissionType=handgeschakeld&SelectedBrand=SKODA",
+            "ConfigUrl": "https://www.autoabonnement.nl/private-lease/SKODA/Citigo/Basis?Duration={duration}&Mileage={mileage}&SelectedOptions={options}&SelectedInsurances={insurances}&SelectedPolicyExcessOption={policyexcess}&SelectedColour={color}&FuelType=benzine&TransmissionType=handgeschakeld",
+            "TypeSelectionUrl": "https://www.autoabonnement.nl/private-lease/SKODA/Citigo?FuelType=benzine&TransmissionType=handgeschakeld&Duration={duration}&Mileage={mileage}"
+        }
+    ]
+}
