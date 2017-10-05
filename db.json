@@ -1,29 +1,12 @@
 {
     "Models": [
         {
-            "basePrice": 0,
-            "discountPrice": 0,
-            "finalPrice": 0,
-            "basicCarConfigurationTitle": null,
-            "productPriceFromLabel": null,
-            "productColourLabel": null,
-            "additionalKmLabel": null,
-            "productPriceSymbolLabel": null,
-            "productPriceFrequencyLabel": null,
-            "discount": null,
-            "duration": null,
-            "mileage": null,
-            "configUrl": null,
-            "overviewUrl": null,
             "Id": "41a141fc-cd50-491f-a673-900867b06071",
             "CarModel": {
                 "Id": "201bc90e-6754-4cb4-a56e-b24c7a73d1e6",
                 "Brand": {
                     "Id": "0dd686c7-a99e-46e3-955a-9e71385aa219",
-                    "Name": "Skoda",
-                    "SelectListValue": "SKODA",
-                    "Selected": false,
-                    "Identifier": "skoda"
+                    "Name": "Skoda"
                 },
                 "Model": {
                     "Id": "40ec88ec-7794-477e-9eef-4d1d2e582b6c",
@@ -31,13 +14,7 @@
                     "SelectListValue": "Citigo",
                     "Selected": false,
                     "Identifier": "citigo"
-                },
-                "SmallLabel": "",
-                "RegularLabel": "",
-                "DisplayLimitedStock": false,
-                "LimitedStockLabel": "",
-                "LimitedStockTermsAndConditions": null,
-                "Title": "ŠKODA Citigo"
+                }
             },
             "Title": "ŠKODA Citigo",
             "Brand": {
@@ -86,36 +63,6 @@
                     "TargetName": "Skoda"
                 }
             ],
-            "SideShot": {
-                "Alt": "",
-                "Border": "",
-                "Class": "",
-                "Height": 207,
-                "HSpace": 0,
-                "Src": "/-/media/images/autoabonnement/shop/sideshots/skoda/private-lease-skoda-citigo-luxe-tornado-red.png",
-                "VSpace": 0,
-                "Width": 480,
-                "MediaId": "6364751d-ccf4-425c-88f4-3815cdf09e59",
-                "Title": "",
-                "Language": {
-                    "Name": "nl-NL"
-                }
-            },
-            "TypeShot": {
-                "Alt": "Private Lease SKODA Citigo Basis",
-                "Border": "",
-                "Class": "",
-                "Height": 378,
-                "HSpace": 0,
-                "Src": "/-/media/images/autoabonnement/shop/pakkettenplein/skoda/private-lease-skoda-citigo-basis.jpg",
-                "VSpace": 0,
-                "Width": 634,
-                "MediaId": "ff0130b2-d43b-4ba1-a31c-13f8a1b0c844",
-                "Title": "",
-                "Language": {
-                    "Name": "nl-NL"
-                }
-            },
             "Options": [
                 {
                     "CalcId": 10100,
@@ -138,71 +85,6 @@
                     "Selected": false,
                     "Price": 2.82,
                     "Identifier": "direct-vervangend-vervoer"
-                }
-            ],
-            "StandardOptions": [
-                {
-                    "Id": "1bfc30eb-251c-4c00-9d8a-9c9dee1bd5d6",
-                    "Name": "Stuurbekrachtiging",
-                    "BLSName": null,
-                    "Title": "Stuurbekrachtiging",
-                    "Information": "Met minder krachtinspanning soepel door de bochten, dat is mogelijk met stuurbekrachtiging. In sommige auto's verandert de hoeveelheid bekrachtiging afhankelijk van de snelheid van de auto: licht sturen bij het parkeren, een goed stuurgevoel op hoge snelheid."
-                },
-                {
-                    "Id": "4cf22db2-23cb-4763-bbb3-3b63dfd5a0a6",
-                    "Name": "5 deuren",
-                    "BLSName": null,
-                    "Title": "5 deuren",
-                    "Information": "Extra makkelijke instap en handig bij vervoer van meerdere personen."
-                },
-                {
-                    "Id": "218d0250-ef7f-4d75-9234-ceff0b2a7771",
-                    "Name": "De laatste veiligheidsitems",
-                    "BLSName": null,
-                    "Title": "De laatste veiligheidsitems",
-                    "Information": "Met o.a. airbags voor de bestuurder en passagiers."
-                },
-                {
-                    "Id": "c572a2ba-26c8-4702-b08e-6f9440d0b91a",
-                    "Name": "Start-stopsysteem",
-                    "BLSName": null,
-                    "Title": "Start-stopsysteem",
-                    "Information": "Een start-stopsysteem zorgt er voor dat de motor automatisch afslaat wanneer de auto stopt. Het systeem kan in stadsverkeer tot zelfs 8% minder CO2-uitstoot  en brandstofbesparing zorgen. Het is vooral efficiënt bij bijvoorbeeld verkeerslichten of files."
-                },
-                {
-                    "Id": "24a54121-9610-4be9-a43e-da0b6ae9f808",
-                    "Name": "Elektrische ramen voor",
-                    "BLSName": null,
-                    "Title": "Elektrische ramen voor",
-                    "Information": "Altijd handig bij de parkeergarage of wellicht het werk. Met één druk op de knop gaat het raam open. "
-                },
-                {
-                    "Id": "54c4869f-26d0-43b3-9d0a-25c914ed3020",
-                    "Name": "Getint glas",
-                    "BLSName": null,
-                    "Title": "Getint glas",
-                    "Information": ""
-                },
-                {
-                    "Id": "a857a56c-d84e-4f98-a25d-5e78e55613f8",
-                    "Name": "In hoogte verstelbare bestuurdersstoel",
-                    "BLSName": null,
-                    "Title": "In hoogte verstelbare bestuurdersstoel",
-                    "Information": ""
-                },
-                {
-                    "Id": "09915518-bcf7-48bf-a75c-12c50acbeb9a",
-                    "Name": "Isofix voorbereiding achter",
-                    "BLSName": null,
-                    "Title": "Isofix voorbereiding achter",
-                    "Information": ""
-                },
-                {
-                    "Id": "68ed8a4e-a2e8-41c5-b07a-178f5524f9b5",
-                    "Name": "Centrale deurvergrendeling",
-                    "BLSName": null,
-                    "Title": "Centrale deurvergrendeling",
-                    "Information": "Alle deuren centraal openen of sluiten. Bij de meeste modellen wordt ook een handige afstandsbediening meegeleverd."
                 }
             ],
             "SearchTitle": "ŠKODA Citigo",
@@ -602,30 +484,6 @@
             "AdditionalKmPrice": 4.3,
             "LessKmPrice": 2.66,
             "Link": "/private-lease/SKODA/Citigo/Basis?Duration=36-maanden&Mileage=20-000-km&FuelType=benzine&TransmissionType=handgeschakeld&",
-            "Insurances": [
-                {
-                    "Id": "eee89b36-6fb0-4957-ae96-96ef3ea17b54",
-                    "CalcId": 5,
-                    "Label": "All risk",
-                    "Information": "Bij private lease via ons is uw auto altijd all risk verzekerd. Dat houdt in dat schade aan zowel de tegenpartij als aan de eigen auto altijd vergoed wordt. Daarbij geldt wel een eigen risico, standaard € 500,-, die ook naar beneden bijgesteld kan worden in de shop. ",
-                    "Selected": false,
-                    "Disabled": false,
-                    "Mandatory": true,
-                    "Price": 0,
-                    "Identifier": "all-risk"
-                },
-                {
-                    "Id": "fabb25fd-ff12-4a85-9e76-d125d4f43746",
-                    "CalcId": 4,
-                    "Label": "Schadeverzekering inzittenden",
-                    "Information": "Als je een schadeverzekering voor inzittenden afsluit krijg je als bestuurder de schade vergoed na een ongeval met de auto. Denk hierbij aan zowel letselschade als schade aan bagage of kleding. Dit geldt ook voor eventuele medepassagiers die schade oplopen. Goed om te weten dat je dit ook krijgt als jij degene bent die het ongeluk heeft veroorzaakt. Let hierbij wel op dat er een maximaal verzekerd bedrag is.\r\n\r\nStel je voor dat je na een ongeval niet meer in staat bent om te kunnen werken. Dan verlies je je inkomen en heb je misschien medische en huishoudelijke hulp nodig. Daarbij kun je misschien aanpassingen in je woning nodig hebben. Ook kun je recht hebben op smartengeld en een vergoeding voor overlijdensschade. \r\n\r\nStandaard is de schadeverzekering inzittenden inbegrepen.",
-                    "Selected": false,
-                    "Disabled": false,
-                    "Mandatory": true,
-                    "Price": 0,
-                    "Identifier": "schadeverzekering-inzittenden"
-                }
-            ],
             "PolicyExcessOptions": [
                 {
                     "Id": "60b0762f-09f5-411c-81e9-694ade52e6c3",
@@ -667,12 +525,7 @@
                     "Price": 0,
                     "Identifier": "-125-999"
                 }
-            ],
-            "OnlineAfsluiten": false,
-            "ServiceUrl": "https://www.autoabonnement.nl/api/CarConfigurator/GetCar?CarId=41a141fc-cd50-491f-a673-900867b06071&Mileage={mileage}&Duration={duration}",
-            "OverviewUrl": "https://www.autoabonnement.nl/private-lease/SKODA/Citigo/Basis/overzicht?Duration={duration}&Mileage={mileage}&SelectedOptions={options}&SelectedInsurances={insurances}&SelectedPolicyExcessOption={policyexcess}&SelectedColour={color}&FuelType=benzine&TransmissionType=handgeschakeld&SelectedBrand=SKODA",
-            "ConfigUrl": "https://www.autoabonnement.nl/private-lease/SKODA/Citigo/Basis?Duration={duration}&Mileage={mileage}&SelectedOptions={options}&SelectedInsurances={insurances}&SelectedPolicyExcessOption={policyexcess}&SelectedColour={color}&FuelType=benzine&TransmissionType=handgeschakeld",
-            "TypeSelectionUrl": "https://www.autoabonnement.nl/private-lease/SKODA/Citigo?FuelType=benzine&TransmissionType=handgeschakeld&Duration={duration}&Mileage={mileage}"
+            ]
         }
     ]
 }
