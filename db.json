@@ -2,92 +2,8 @@
     "Models": [
         {
             "Id": "41a141fc-cd50-491f-a673-900867b06071",
-            "CarModel": {
-                "Id": "201bc90e-6754-4cb4-a56e-b24c7a73d1e6",
-                "Brand": {
-                    "Id": "0dd686c7-a99e-46e3-955a-9e71385aa219",
-                    "Name": "Skoda"
-                },
-                "Model": {
-                    "Id": "40ec88ec-7794-477e-9eef-4d1d2e582b6c",
-                    "Name": "Citigo",
-                    "SelectListValue": "Citigo",
-                    "Selected": false,
-                    "Identifier": "citigo"
-                }
-            },
             "Title": "ŠKODA Citigo",
-            "Brand": {
-                "Id": "0dd686c7-a99e-46e3-955a-9e71385aa219",
-                "Name": "Skoda",
-                "SelectListValue": "SKODA",
-                "Selected": false,
-                "Identifier": "skoda"
-            },
-            "Model": {
-                "Id": "40ec88ec-7794-477e-9eef-4d1d2e582b6c",
-                "Name": "Citigo",
-                "SelectListValue": "Citigo",
-                "Selected": false,
-                "Identifier": "citigo"
-            },
-            "Type": {
-                "Id": "c28255f2-4543-442e-baa0-6cc4f75f5b26",
-                "Name": "Basis",
-                "SelectListValue": "Basis",
-                "Selected": false,
-                "Identifier": "basis"
-            },
-            "FuelType": {
-                "Id": "3d41e7cd-3a8b-4b50-b862-4af56e2c99f3",
-                "Name": "Benzine",
-                "SelectListValue": "Benzine",
-                "Selected": false,
-                "Identifier": "benzine"
-            },
-            "Transmission": {
-                "Id": "1c5a685b-6e0b-46e4-b23a-df4a7d28b36a",
-                "Name": "Handgeschakeld",
-                "SelectListValue": "Handgeschakeld",
-                "Selected": false,
-                "Identifier": "handgeschakeld"
-            },
-            "NrOfPassengers": 2,
-            "Targets": [
-                {
-                    "Id": "3ef4e23e-f21e-4878-bbf1-5b7936f18060",
-                    "TargetName": "Autoabonnement"
-                },
-                {
-                    "Id": "d49d7278-a916-4377-bad1-abb3ac5d3201",
-                    "TargetName": "Skoda"
-                }
-            ],
-            "Options": [
-                {
-                    "CalcId": 10100,
-                    "Id": "4146a1d4-a9b3-444c-a0a6-fc25513cd7eb",
-                    "Name": "Winterbanden",
-                    "BLSName": "",
-                    "Title": "Winterbanden",
-                    "Information": "Winterbanden verbeteren het contact met de weg bij lage temperaturen. In Duitsland zijn winterbanden in de wintermaanden verplicht. Meerprijs is inclusief de bandenwissel en opslag.",
-                    "Selected": false,
-                    "Price": 10.42,
-                    "Identifier": "winterbanden"
-                },
-                {
-                    "CalcId": 10110,
-                    "Id": "e81f5ea2-8b8f-4670-a7cb-38c8d10336bb",
-                    "Name": "Direct vervangend vervoer",
-                    "BLSName": "",
-                    "Title": "Direct vervangend vervoer",
-                    "Information": "Direct vervangend vervoer bij pech, reparatie en onderhoud. Zonder deze optie krijgt u standaard vervangend vervoer na 24 uur.",
-                    "Selected": false,
-                    "Price": 2.82,
-                    "Identifier": "direct-vervangend-vervoer"
-                }
-            ],
-            "SearchTitle": "ŠKODA Citigo",
+
             "Colours": [
                 {
                     "Id": "66049bf7-afec-44dd-96cd-a2041711fc72",
@@ -474,11 +390,6 @@
             "FuelConsumption": "4,1 l/100km",
             "Emission": "95 g/km",
             "EnergyLabel": "B",
-            "SmallLabel": "",
-            "RegularLabel": "",
-            "DisplayLimitedStock": false,
-            "LimitedStockLabel": "Uitverkocht",
-            "LimitedStockTermsAndConditions": "Wegens succes is deze auto helaas niet meer leverbaar. Kies gerust een ander model/uitvoering of neem contact met ons op voor een passend alternatief.",
             "Price": 159,
             "LeaseOptionPrice": 38.78,
             "AdditionalKmPrice": 4.3,
